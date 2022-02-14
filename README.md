@@ -27,3 +27,11 @@ Saya Bertempat tinggal di Banjarnegara, Jawa Tengah, Indonesia
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/imam-rois-budiman-288b9118b)ku ya.
 
 
+<p align="left">
+<a href="https://github.com/P2377A371ImamRoisBudiman">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=P2377A371ImamRoisBudiman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=P2377A371ImamRoisBudiman&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
