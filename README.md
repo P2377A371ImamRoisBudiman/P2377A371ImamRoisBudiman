@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Imam Rois Budiman**.\
 
-Saya seorang **Mahasiswa** di [Universitas Indonesia Membangun](https://inaba.ac.id/).\
+Saya seorang **Mahasiswa** di [Universitas Indonesia Membangun](https://inaba.ac.id/).
 
-Saya Sedang mengikuti program Studi independence Bersertifikat dari [dicoding](https://www.dicoding.com/).\
+Saya Sedang mengikuti program Studi independence Bersertifikat dari [dicoding](https://www.dicoding.com/).
 
 Saya Bertempat tinggal di Banjarnegara, Jawa Tengah, Indonesia
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/imam-rois-budiman-288b9118b)ku ya.
