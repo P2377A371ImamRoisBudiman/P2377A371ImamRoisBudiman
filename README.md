@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source project
 - 📫 How to reach me: roisbudiman88@gmail.com
 - 😄 Pronouns: Central Java ( Ngapak - Banyumasan)
-- ⚡ Fun fact: Dudu Aparat 😄
+- ⚡ Fun fact: Learning by doing 😄
 
 
 # Halo semua! 
